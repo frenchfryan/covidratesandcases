@@ -10,14 +10,14 @@ For this lab, we are tasked to construct thematic maps that represent cases and 
 
 **Map 1: COVID-19 Rates Choropleth Map**
 ![map 1](/img/Map1.jpg)
-Link: http://127.0.0.1:5500/map1.html
+Link: https://frenchfryan.github.io/covidratesandcases/map1.html
 
 **Description of Map and Primary Uses:**
 The thematic map for map 1 will be portrayed in the form of a choropleth map. More specifically, this map will represent the COVID-19 rates in each county across the U.S. Furthermore, the number of deaths per county will also be shown along with the rates if you hover your mouse over a county. Lastly, the legend will show the source of the data as well as the range of rates each color represents, depending on how high or low the COVID-19 rate is.
 
 **Map 2: COVID-19 Cases Proportional Symbols Map**
 ![map 2](/img/Map2.jpg)
-Link: http://127.0.0.1:5500/map2.html
+Link: https://frenchfryan.github.io/covidratesandcases/map2.html
 
 **Description of Map and Primary Uses:**
 The thematic map for map 2 will be portrayed in the form of a proportional symbols map. More specifically, this map will represent the COVID-19 cases in each county across the U.S. Furthermore, the number of deaths per county will also be shown along with the cases if you click any of the circles on the map. Lastly, the legend will show the source of the data as well as the number of cases each color and shape of the circle represents, depending on how high or low the COVID-19 case is.
